@@ -37,7 +37,25 @@ export default class Menu extends Component {
                   category: 'dessert',
                   label:'',
                   price:'2.99',
+                  description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'                        },
+               {
+                  id: 4,
+                  name:'Our Buffet',
+                  image: 'assets/images/buffet.png',
+                  category: 'dessert',
+                  label:'',
+                  price:'2.99',
+                  description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'                        },
+               {
+                  id: 5,
+                  name:'Our Shef-Cook',
+                  image: 'assets/images/alberto.png',
+                  category: 'dessert',
+                  label:'',
+                  price:'2.99',
                   description:'A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms'                        }
+
+
                ],
         };
     }
